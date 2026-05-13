@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/BOforUnity/Scenes/BO-fitts-law-task.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

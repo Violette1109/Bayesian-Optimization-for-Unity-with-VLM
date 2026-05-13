@@ -1,0 +1,7 @@
+UserID;ConditionID;GroupID;Timestamp;Iteration;Phase;IsPareto;PerceivedDifficultyLikert;AverageClickTimeMS;TargetSize;TargetEccentricity
+-1;-1;-1;2026-04-04 23:29:31;1;sampling;FALSE;5.0;1388.867;0.307;0.225
+-1;-1;-1;2026-04-04 23:29:40;2;sampling;TRUE;2.0;979.02;0.37;0.063
+-1;-1;-1;2026-04-04 23:29:48;3;sampling;TRUE;1.0;874.716;0.338;0.03
+-1;-1;-1;2026-04-04 23:29:56;4;sampling;FALSE;6.0;1209.463;0.315;0.339
+-1;-1;-1;2026-04-04 23:30:04;5;sampling;TRUE;6.0;1139.315;0.327;0.273
+-1;-1;-1;2026-04-04 23:30:19;6;optimization;TRUE;3.0;1036.062;0.4;0.317

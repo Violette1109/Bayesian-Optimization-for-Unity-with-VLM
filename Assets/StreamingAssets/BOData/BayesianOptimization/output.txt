@@ -1,0 +1,4 @@
+Server starts, waiting for connection...
+Connected by ('127.0.0.1', 62245)
+Init OK: {'BATCH_SIZE': 1, 'NUM_RESTARTS': 10, 'RAW_SAMPLES': 1024, 'N_ITERATIONS': 5, 'MC_SAMPLES': 512, 'N_INITIAL': 0, 'SEED': 3, 'PROBLEM_DIM': 3, 'NUM_OBJS': 3, 'SOCKET_TIMEOUT_SEC': 3600.0, 'WARM_START_OBJECTIVE_FORMAT': 'auto'}
+Send parameters: {'type': 'parameters', 'values': {'circle_size': 99.09325832917986, 'circle_distance': 428.9073028171673, 'movement_direction': 127.73628858610732}}

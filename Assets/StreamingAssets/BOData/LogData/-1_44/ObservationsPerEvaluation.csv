@@ -1,0 +1,12 @@
+UserID;ConditionID;GroupID;Timestamp;Iteration;Phase;IsPareto;PerceivedDifficultyLikert;AverageClickTimeMS;TargetSize;TargetEccentricity
+-1;-1;-1;2026-04-09 03:14:18;1;sampling;FALSE;4.0;1090.506;0.307;0.225
+-1;-1;-1;2026-04-09 03:14:24;2;sampling;FALSE;4.0;726.538;0.37;0.063
+-1;-1;-1;2026-04-09 03:14:31;3;sampling;FALSE;4.0;727.216;0.338;0.03
+-1;-1;-1;2026-04-09 03:14:50;4;sampling;FALSE;4.0;2868.333;0.315;0.339
+-1;-1;-1;2026-04-09 03:14:57;5;sampling;FALSE;4.0;907.45;0.327;0.273
+-1;-1;-1;2026-04-09 03:15:07;6;optimization;FALSE;4.0;1050.751;0.4;1.0
+-1;-1;-1;2026-04-09 03:15:17;7;optimization;FALSE;4.0;868.019;0.4;0.024
+-1;-1;-1;2026-04-09 03:15:27;8;optimization;FALSE;4.0;1174.591;0.3;0.941
+-1;-1;-1;2026-04-09 03:15:49;9;optimization;FALSE;4.0;800.781;0.3;0.111
+-1;-1;-1;2026-04-09 03:16:04;10;optimization;TRUE;4.0;694.717;0.3;0.061
+-1;-1;-1;2026-04-09 03:16:12;11;finaldesign;NULL;4;746.155;0.3;0.061

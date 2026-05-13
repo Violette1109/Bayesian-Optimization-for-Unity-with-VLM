@@ -1,0 +1,7 @@
+UserID;ConditionID;GroupID;Timestamp;Iteration;Phase;IsPareto;Trust;Usability;CubeColorR;CubeColorG;CubeColorB;CubeTransparency;CubeVisibility;CylinderColorR;CylinderColorG;CylinderColorB;CylinderTransparency;CylinderVisibility
+-1;-1;-1;2026-03-23 12:31:11;1;sampling;FALSE;3.333;2.0;0.068;0.225;0.699;0.063;0.375;0.03;0.147;0.339;0.27;0.273
+-1;-1;-1;2026-03-23 12:31:23;2;sampling;FALSE;3.0;3.0;0.69;0.389;0.786;0.644;0.202;0.634;0.055;0.005;0.725;0.248
+-1;-1;-1;2026-03-23 12:31:34;3;sampling;FALSE;4.667;4.0;0.969;0.079;0.548;0.525;0.669;0.827;0.318;0.099;0.443;0.644
+-1;-1;-1;2026-03-23 12:31:49;4;sampling;FALSE;1.333;1.0;0.343;0.358;0.485;0.925;0.293;0.799;0.952;0.769;0.864;0.055
+-1;-1;-1;2026-03-23 12:31:58;5;sampling;FALSE;5.0;5.0;0.82;0.014;0.897;0.658;0.508;0.584;0.162;0.577;0.534;0.189
+-1;-1;-1;2026-03-23 12:32:05;6;sampling;FALSE;5.0;5.0;0.581;0.241;0.917;0.635;0.376;0.132;0.385;0.809;0.594;0.982

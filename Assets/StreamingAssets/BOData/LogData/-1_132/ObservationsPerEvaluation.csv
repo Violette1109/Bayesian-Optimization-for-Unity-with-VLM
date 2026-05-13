@@ -1,0 +1,7 @@
+UserID;ConditionID;GroupID;Timestamp;Iteration;Phase;IsPareto;task_completion_time;accuracy;mental_demand;circle_size;circle_distance;movement_direction
+-1;-1;-1;2026-04-30 10:14:02;10;optimization;FALSE;9210.273;100.0;10.5;99.093;428.907;127.736
+-1;-1;-1;2026-04-30 10:15:04;11;optimization;FALSE;8641.937;90.909;10.5;82.626;497.501;114.756
+-1;-1;-1;2026-04-30 10:16:14;12;optimization;FALSE;7326.965;100.0;10.5;73.851;287.912;60.575
+-1;-1;-1;2026-04-30 10:17:16;13;optimization;TRUE;7037.842;100.0;10.5;105.474;518.337;83.949
+-1;-1;-1;2026-04-30 10:18:09;14;optimization;FALSE;8925.477;90.909;10.5;92.506;517.392;53.296
+-1;-1;-1;2026-04-30 10:18:21;6;finaldesign;NULL;9230.164;100;10.5;105.474;518.337;83.949

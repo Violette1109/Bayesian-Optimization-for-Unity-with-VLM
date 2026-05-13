@@ -1,0 +1,2 @@
+UserID;ConditionID;GroupID;Timestamp;Iteration;Phase;IsPareto;task_completion_time;accuracy;mental_demand;circle_size;circle_distance;movement_direction
+-1;-1;-1;2026-05-01 10:10:09;1;sampling;FALSE;9165.672;100.0;3.0;45.477;341.245;125.853
